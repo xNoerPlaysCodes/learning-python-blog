@@ -8,3 +8,5 @@ I started the day by creating xNoerPlaysCodes/mbgtk-python , And then I fell asl
 Report 2, 2nd August 2023.
 I started the day, I coded a help command, a hello command, and ping command from ChatGPT, rest from scratch.
 I tried to continue this pace but I hadn't learned enough.
+
+java on top bitches
